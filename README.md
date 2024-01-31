@@ -1,1 +1,1 @@
-this is a ecommerce website based on mern stack 
+this is a ecommerce website creating using mern stack 
